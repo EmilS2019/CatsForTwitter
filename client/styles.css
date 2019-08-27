@@ -1,0 +1,34 @@
+body{
+    background:#212121;
+    color:white;
+}
+
+.title{
+    text-align: center;
+    background:#eee;
+    border-radius:8px;
+    width:80%;
+    margin:auto;
+    color:black;
+}
+
+.form{
+    width:30%;
+    margin:0 auto;
+}
+
+.loading{
+    width:30%;
+    margin:auto;
+}
+
+.mews div{
+    background: white;
+    color:black;
+    text-align:center;
+    margin:auto;
+    margin-top: 50px;
+    padding:20px;
+    border-radius:8px;
+    width:50%;
+}
